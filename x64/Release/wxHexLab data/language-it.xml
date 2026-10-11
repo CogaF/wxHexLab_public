@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it" name="Italiano">
+    <entry key="&amp;File" value="&amp;File"/>
+    <entry key="&amp;New" value="&amp;Nuovo"/>
+    <entry key="&amp;Open..." value="&amp;Apri..."/>
+    <entry key="Open &amp;Read-Only..." value="Apri in sola &amp;lettura..."/>
+    <entry key="Recent &amp;Files" value="File &amp;recenti"/>
+    <entry key="&amp;Save" value="&amp;Salva"/>
+    <entry key="Save &amp;As..." value="Salva &amp;con nome..."/>
+    <entry key="Save Se&amp;lection As..." value="Salva se&amp;lezione con nome..."/>
+    <entry key="&amp;Close" value="&amp;Chiudi"/>
+    <entry key="&amp;Import" value="&amp;Importa"/>
+    <entry key="Intel &amp;HEX..." value="Intel &amp;HEX..."/>
+    <entry key="Motorola &amp;S-record..." value="Motorola &amp;S-record..."/>
+    <entry key="&amp;Export" value="&amp;Esporta"/>
+    <entry key="&amp;C / C++ array..." value="Array &amp;C / C++..."/>
+    <entry key="HT&amp;ML..." value="HT&amp;ML..."/>
+    <entry key="E&amp;xit" value="&amp;Esci"/>
+    <entry key="&amp;Edit" value="&amp;Modifica"/>
+    <entry key="&amp;Undo" value="&amp;Annulla"/>
+    <entry key="&amp;Redo" value="&amp;Ripeti"/>
+    <entry key="Cu&amp;t" value="&amp;Taglia"/>
+    <entry key="&amp;Copy" value="&amp;Copia"/>
+    <entry key="Copy as &amp;Hex Text" value="Copia come testo &amp;esadecimale"/>
+    <entry key="&amp;Paste" value="&amp;Incolla"/>
+    <entry key="&amp;Delete" value="&amp;Elimina"/>
+    <entry key="Select &amp;All" value="Seleziona &amp;tutto"/>
+    <entry key="&amp;Insert Bytes..." value="&amp;Inserisci byte..."/>
+    <entry key="Insert &amp;Mode (Ins)" value="Modalità &amp;inserimento (Ins)"/>
+    <entry key="&amp;Search" value="&amp;Cerca"/>
+    <entry key="&amp;Find..." value="&amp;Trova..."/>
+    <entry key="&amp;Replace..." value="&amp;Sostituisci..."/>
+    <entry key="Find &amp;Next" value="Trova &amp;successivo"/>
+    <entry key="Find &amp;Previous" value="Trova &amp;precedente"/>
+    <entry key="&amp;Go To Offset..." value="&amp;Vai a offset..."/>
+    <entry key="&amp;View" value="&amp;Visualizza"/>
+    <entry key="Hex &amp;and Text" value="Hex &amp;e testo"/>
+    <entry key="&amp;Hex Only" value="Solo &amp;hex"/>
+    <entry key="&amp;Text Only" value="Solo &amp;testo"/>
+    <entry key="&amp;Bytes per Row" value="&amp;Byte per riga"/>
+    <entry key="&amp;Group Bytes By" value="&amp;Raggruppa byte per"/>
+    <entry key="&amp;Character Set" value="&amp;Set di caratteri"/>
+    <entry key="Offsets in He&amp;x" value="Offset in e&amp;sadecimale"/>
+    <entry key="Data &amp;Inspector" value="&amp;Ispettore dati"/>
+    <entry key="&amp;Larger Font" value="Carattere più &amp;grande"/>
+    <entry key="&amp;Smaller Font" value="Carattere più &amp;piccolo"/>
+    <entry key="&amp;Bookmarks" value="&amp;Segnalibri"/>
+    <entry key="&amp;Toggle Bookmark" value="&amp;Attiva/disattiva segnalibro"/>
+    <entry key="&amp;Next Bookmark" value="Segnalibro &amp;successivo"/>
+    <entry key="&amp;Previous Bookmark" value="Segnalibro &amp;precedente"/>
+    <entry key="&amp;List..." value="&amp;Elenco..."/>
+    <entry key="&amp;Remove All" value="&amp;Rimuovi tutti"/>
+    <entry key="&amp;Analysis" value="&amp;Analisi"/>
+    <entry key="&amp;Checksums and Hashes..." value="&amp;Checksum e hash..."/>
+    <entry key="Co&amp;mpare with File..." value="Con&amp;fronta con file..."/>
+    <entry key="&amp;Tools" value="S&amp;trumenti"/>
+    <entry key="&amp;Split File..." value="&amp;Dividi file..."/>
+    <entry key="&amp;Join Files..." value="&amp;Unisci file..."/>
+    <entry key="Shred &amp;Files..." value="Distruggi &amp;file..."/>
+    <entry key="Shred F&amp;older..." value="Distruggi &amp;cartella..."/>
+    <entry key="Se&amp;ttings" value="&amp;Impostazioni"/>
+    <entry key="&amp;Theme..." value="&amp;Tema..."/>
+    <entry key="&amp;Language..." value="&amp;Lingua..."/>
+    <entry key="Log &amp;Level..." value="&amp;Livello log..."/>
+    <entry key="Open &amp;Data Folder" value="Apri cartella &amp;dati"/>
+    <entry key="&amp;Help" value="&amp;Aiuto"/>
+    <entry key="&amp;About..." value="&amp;Informazioni su..."/>
+    <entry key="Ready" value="Pronto"/>
+    <entry key="Offset: %llX h (%llu)" value="Offset: %llX h (%llu)"/>
+    <entry key="Selection: %llX - %llX h (%llu bytes)" value="Selezione: %llX - %llX h (%llu byte)"/>
+    <entry key="Size: %llu bytes" value="Dimensione: %llu byte"/>
+    <entry key="Untitled" value="Senza nome"/>
+    <entry key="Opened %s" value="Aperto %s"/>
+    <entry key="Opened %s read-only (no write permission or opened read-only)" value="Aperto %s in sola lettura (nessun permesso di scrittura o aperto in sola lettura)"/>
+    <entry key="Cannot open %s:&#10;%s" value="Impossibile aprire %s:&#10;%s"/>
+    <entry key="Unsaved Changes" value="Modifiche non salvate"/>
+    <entry key="&quot;%s&quot; has unsaved changes. Save them?" value="&quot;%s&quot; ha modifiche non salvate. Salvarle?"/>
+    <entry key="The document could not be saved:&#10;%s" value="Impossibile salvare il documento:&#10;%s"/>
+    <entry key="Saved %s" value="Salvato %s"/>
+    <entry key="Saving..." value="Salvataggio..."/>
+    <entry key="Working..." value="Elaborazione..."/>
+    <entry key="Exported to %s" value="Esportato in %s"/>
+    <entry key="More than 16 MiB as HTML makes a very large page. Export anyway?" value="Più di 16 MiB in HTML danno una pagina molto grande. Esportare comunque?"/>
+    <entry key="The selection is larger than %d MiB and is not copied to the clipboard. Use File &gt; Save Selection As instead." value="La selezione supera %d MiB e non viene copiata negli appunti. Usa File &gt; Salva selezione con nome."/>
+    <entry key="Copy" value="Copia"/>
+    <entry key="Bookmarks" value="Segnalibri"/>
+    <entry key="Error" value="Errore"/>
+    <entry key="Cancelled." value="Annullato."/>
+    <entry key="Close" value="Chiudi"/>
+    <entry key="Cancel" value="Annulla"/>
+    <entry key="Continue..." value="Continua..."/>
+    <entry key="Go To" value="Vai"/>
+    <entry key="Remove" value="Rimuovi"/>
+    <entry key="Choose File..." value="Scegli file..."/>
+    <entry key="Compute" value="Calcola"/>
+    <entry key="Copy Results" value="Copia risultati"/>
+    <entry key="Copy to Clipboard" value="Copia negli appunti"/>
+    <entry key="Offset (h)" value="Offset (h)"/>
+    <entry key="Length" value="Lunghezza"/>
+    <entry key="Bytes" value="Byte"/>
+    <entry key="Note" value="Nota"/>
+    <entry key="File" value="File"/>
+    <entry key="Size (bytes)" value="Dimensione (byte)"/>
+    <entry key="Reason" value="Motivo"/>
+    <entry key="Range" value="Intervallo"/>
+    <entry key="Whole document" value="Intero documento"/>
+    <entry key="Selection" value="Selezione"/>
+    <entry key="Find" value="Trova"/>
+    <entry key="Replace" value="Sostituisci"/>
+    <entry key="Find:" value="Trova:"/>
+    <entry key="Replace with:" value="Sostituisci con:"/>
+    <entry key="Type:" value="Tipo:"/>
+    <entry key="Text (current character set)" value="Testo (set di caratteri corrente)"/>
+    <entry key="Hex bytes" value="Byte esadecimali"/>
+    <entry key="Unicode (UTF-16 LE)" value="Unicode (UTF-16 LE)"/>
+    <entry key="Match case" value="Maiuscole/minuscole"/>
+    <entry key="Replace all only inside the selection" value="Sostituisci tutto solo nella selezione"/>
+    <entry key="Hex: &quot;4D 5A ?? 00&quot; - ?? matches any byte. An empty replacement deletes the matches." value="Hex: &quot;4D 5A ?? 00&quot; - ?? corrisponde a qualsiasi byte. Una sostituzione vuota elimina le corrispondenze."/>
+    <entry key="Find Next" value="Trova successivo"/>
+    <entry key="Find Previous" value="Trova precedente"/>
+    <entry key="Count" value="Conta"/>
+    <entry key="Replace All" value="Sostituisci tutto"/>
+    <entry key="Searching..." value="Ricerca..."/>
+    <entry key="Found at %llX h (%llu)" value="Trovato a %llX h (%llu)"/>
+    <entry key="Not found." value="Non trovato."/>
+    <entry key="The end of the document was reached. Continue from the start?" value="Raggiunta la fine del documento. Continuare dall&apos;inizio?"/>
+    <entry key="%llu matches." value="%llu corrispondenze."/>
+    <entry key="%llu replacements (one undo step)." value="%llu sostituzioni (un solo passo di annullamento)."/>
+    <entry key="This document has a fixed size: the replacement must have as many bytes as the searched data." value="Questo documento ha dimensione fissa: la sostituzione deve avere tanti byte quanti i dati cercati."/>
+    <entry key="Go To Offset" value="Vai a offset"/>
+    <entry key="Offset (the document has %llu = %llX h bytes):" value="Offset (il documento ha %llu = %llX h byte):"/>
+    <entry key="Number" value="Numero"/>
+    <entry key="Hexadecimal" value="Esadecimale"/>
+    <entry key="Decimal" value="Decimale"/>
+    <entry key="From" value="Da"/>
+    <entry key="Start of the document" value="Inizio del documento"/>
+    <entry key="Cursor, forward" value="Cursore, avanti"/>
+    <entry key="Cursor, backward" value="Cursore, indietro"/>
+    <entry key="End, backward" value="Fine, indietro"/>
+    <entry key="Not a valid number." value="Numero non valido."/>
+    <entry key="The offset is past the end of the document." value="L&apos;offset è oltre la fine del documento."/>
+    <entry key="Big endian" value="Big endian"/>
+    <entry key="Type" value="Tipo"/>
+    <entry key="Value" value="Valore"/>
+    <entry key="Double-click a value to change it (dates as YYYY-MM-DD HH:MM:SS, UTC)." value="Doppio clic su un valore per cambiarlo (date come AAAA-MM-GG HH:MM:SS, UTC)."/>
+    <entry key="Data Inspector" value="Ispettore dati"/>
+    <entry key="New %s value at offset %llX h:" value="Nuovo valore %s all&apos;offset %llX h:"/>
+    <entry key="Checksums and Hashes" value="Checksum e hash"/>
+    <entry key="Algorithm" value="Algoritmo"/>
+    <entry key="Value (hex)" value="Valore (hex)"/>
+    <entry key="Computing..." value="Calcolo..."/>
+    <entry key="Compare" value="Confronta"/>
+    <entry key="Compare &quot;%s&quot; with:" value="Confronta &quot;%s&quot; con:"/>
+    <entry key="This document" value="Questo documento"/>
+    <entry key="Other file" value="Altro file"/>
+    <entry key="Double-click a difference to select it in the document." value="Doppio clic su una differenza per selezionarla nel documento."/>
+    <entry key="Comparing..." value="Confronto..."/>
+    <entry key="The files are identical." value="I file sono identici."/>
+    <entry key="%llu different bytes in %llu blocks. Sizes: %llu and %llu bytes." value="%llu byte diversi in %llu blocchi. Dimensioni: %llu e %llu byte."/>
+    <entry key="(only the first 100000 blocks are listed)" value="(sono elencati solo i primi 100000 blocchi)"/>
+    <entry key="Import" value="Importa"/>
+    <entry key="Fill gaps with (hex):" value="Riempi i vuoti con (hex):"/>
+    <entry key="Start the document at address 0 (otherwise at the lowest address)" value="Inizia il documento all&apos;indirizzo 0 (altrimenti all&apos;indirizzo più basso)"/>
+    <entry key="The file could not be imported:&#10;%s" value="Impossibile importare il file:&#10;%s"/>
+    <entry key="%llu data records imported. The document starts at address %llX h." value="%llu record di dati importati. Il documento inizia all&apos;indirizzo %llX h."/>
+    <entry key="Start address: %08lX h" value="Indirizzo di avvio: %08lX h"/>
+    <entry key="Export Intel HEX" value="Esporta Intel HEX"/>
+    <entry key="Export Motorola S-record" value="Esporta Motorola S-record"/>
+    <entry key="Export C / C++ Array" value="Esporta array C / C++"/>
+    <entry key="Address of the first byte (hex):" value="Indirizzo del primo byte (hex):"/>
+    <entry key="Bytes per record:" value="Byte per record:"/>
+    <entry key="Record type:" value="Tipo di record:"/>
+    <entry key="Smallest that fits" value="Il più piccolo adatto"/>
+    <entry key="Array name:" value="Nome dell&apos;array:"/>
+    <entry key="Style:" value="Stile:"/>
+    <entry key="Bytes per line:" value="Byte per riga:"/>
+    <entry key="Insert Bytes" value="Inserisci byte"/>
+    <entry key="Number of bytes (decimal, or 0x... hex):" value="Numero di byte (decimale, o 0x... hex):"/>
+    <entry key="Fill pattern (hex bytes):" value="Schema di riempimento (byte hex):"/>
+    <entry key="The pattern is repeated, e.g. &quot;DE AD BE EF&quot;. Bytes are inserted at the cursor." value="Lo schema viene ripetuto, es. &quot;DE AD BE EF&quot;. I byte sono inseriti al cursore."/>
+    <entry key="Enter a count from 1 to 268435456 and a pattern of hex bytes." value="Inserisci un numero da 1 a 268435456 e uno schema di byte hex."/>
+    <entry key="Split File" value="Dividi file"/>
+    <entry key="Choose the file to split" value="Scegli il file da dividere"/>
+    <entry key="Folder for the parts" value="Cartella per le parti"/>
+    <entry key="Part size:" value="Dimensione parte:"/>
+    <entry key="The parts are named &lt;file&gt;.001, &lt;file&gt;.002, ... (at most 999)." value="Le parti si chiamano &lt;file&gt;.001, &lt;file&gt;.002, ... (al massimo 999)."/>
+    <entry key="Enter a part size of at least 1." value="Inserisci una dimensione di almeno 1."/>
+    <entry key="%d parts written to %s" value="%d parti scritte in %s"/>
+    <entry key="Join Files" value="Unisci file"/>
+    <entry key="Choose the first part (.001)" value="Scegli la prima parte (.001)"/>
+    <entry key="First part (*.001)|*.001|All files|*" value="Prima parte (*.001)|*.001|Tutti i file|*"/>
+    <entry key="Join these %d parts (%s)?&#10;&#10;%s" value="Unire queste %d parti (%s)?&#10;&#10;%s"/>
+    <entry key="Save the joined file as" value="Salva il file unito come"/>
+    <entry key="Joined into %s" value="Unito in %s"/>
+    <entry key="Shred Files" value="Distruggi file"/>
+    <entry key="Shred Folder" value="Distruggi cartella"/>
+    <entry key="Choose the files to shred" value="Scegli i file da distruggere"/>
+    <entry key="Choose the folder to shred" value="Scegli la cartella da distruggere"/>
+    <entry key="WARNING: this operation is IRREVERSIBLE. The data is overwritten and deleted - it CANNOT be recovered, not even by data recovery software." value="ATTENZIONE: questa operazione è IRREVERSIBILE. I dati vengono sovrascritti ed eliminati - NON possono essere recuperati, nemmeno con programmi di recupero dati."/>
+    <entry key="LAST CONFIRMATION: every file below will be overwritten and deleted. This is IRREVERSIBLE and UNRECOVERABLE. Files in red are programs, libraries, drivers or system files: deleting them can break programs or the operating system." value="ULTIMA CONFERMA: ogni file qui sotto sarà sovrascritto ed eliminato. L&apos;operazione è IRREVERSIBILE e IRRECUPERABILE. I file in rosso sono programmi, librerie, driver o file di sistema: eliminarli può danneggiare programmi o il sistema operativo."/>
+    <entry key="%d file(s) selected." value="%d file selezionati."/>
+    <entry key="Folder: %s&#10;%llu files inside it (sub-folders included) will be shredded, then the empty folders are removed." value="Cartella: %s&#10;%llu file al suo interno (sottocartelle incluse) saranno distrutti, poi le cartelle vuote saranno rimosse."/>
+    <entry key="Method:" value="Metodo:"/>
+    <entry key="The methods follow published overwrite patterns (NIST SP 800-88, US DoD 5220.22-M, German BSI VSITR, Gutmann); none of them is a certification of this program. On SSDs, USB flash memory and copy-on-write or journaling file systems, old copies of the data can survive any overwrite: for those, use the drive&apos;s own secure erase or full-disk encryption." value="I metodi seguono schemi di sovrascrittura pubblicati (NIST SP 800-88, US DoD 5220.22-M, BSI VSITR tedesco, Gutmann); nessuno di essi è una certificazione di questo programma. Su SSD, memorie flash USB e file system copy-on-write o journaling, vecchie copie dei dati possono sopravvivere a qualsiasi sovrascrittura: per questi usa la cancellazione sicura dell&apos;unità o la cifratura completa del disco."/>
+    <entry key="%llu files, %s in total. Method: %s" value="%llu file, %s in totale. Metodo: %s"/>
+    <entry key="%llu of them are program, library, driver or system files (in red)." value="%llu di essi sono programmi, librerie, driver o file di sistema (in rosso)."/>
+    <entry key="system / program file" value="file di sistema / programma"/>
+    <entry key="I understand that the files will be destroyed and cannot be recovered" value="Ho capito che i file saranno distrutti e non potranno essere recuperati"/>
+    <entry key="Destroy All Files" value="Distruggi tutti i file"/>
+    <entry key="Overwriting and deleting..." value="Sovrascrittura ed eliminazione..."/>
+    <entry key="Shredder Result" value="Risultato distruzione"/>
+    <entry key="Deleted: %llu    Failed: %llu" value="Eliminati: %llu    Non riusciti: %llu"/>
+    <entry key="%s cannot be shredded: it is %s." value="%s non può essere distrutta: è %s."/>
+    <entry key="Theme" value="Tema"/>
+    <entry key="Select the theme:" value="Seleziona il tema:"/>
+    <entry key="Light" value="Chiaro"/>
+    <entry key="Dark" value="Scuro"/>
+    <entry key="The new theme is used for the application&apos;s colours, including the windows opened from now on. Parts drawn by the system (title bars, scroll bars) change at the next start." value="Il nuovo tema è usato per i colori dell&apos;applicazione, comprese le finestre aperte da ora in poi. Le parti disegnate dal sistema (barre del titolo, barre di scorrimento) cambiano al prossimo avvio."/>
+    <entry key="Language" value="Lingua"/>
+    <entry key="Select the language:" value="Seleziona la lingua:"/>
+    <entry key="The language file for &quot;%s&quot; could not be loaded - the current language is kept." value="Impossibile caricare il file di lingua per &quot;%s&quot; - resta la lingua attuale."/>
+    <entry key="The change is applied completely only when the application starts.&#10;&#10;Restart now: save it and restart the application automatically.&#10;Use now: save it and use it right away - some parts change only at the next start.&#10;Save for next start: save it, nothing changes now." value="La modifica è applicata completamente solo all&apos;avvio dell&apos;applicazione.&#10;&#10;Riavvia ora: salvala e riavvia automaticamente l&apos;applicazione.&#10;Usa ora: salvala e usala subito - alcune parti cambiano solo al prossimo avvio.&#10;Salva per il prossimo avvio: salvala, ora non cambia nulla."/>
+    <entry key="Restart now" value="Riavvia ora"/>
+    <entry key="Use now" value="Usa ora"/>
+    <entry key="Save for next start" value="Salva per il prossimo avvio"/>
+    <entry key="Log Level" value="Livello log"/>
+    <entry key="Write to the log messages up to:" value="Scrivi nel log i messaggi fino a:"/>
+    <entry key="About %s" value="Informazioni su %s"/>
+    <entry key="Hex editor for files of any size" value="Editor esadecimale per file di qualsiasi dimensione"/>
+    <entry key="Version %s, built %s" value="Versione %s, compilata %s"/>
+    <entry key="About" value="Informazioni"/>
+    <entry key="Developer" value="Sviluppatore"/>
+    <entry key="Dependencies" value="Dipendenze"/>
+    <entry key="License" value="Licenza"/>
+    <entry key="Changes" value="Modifiche"/>
+    <entry key="System" value="Sistema"/>
+    <entry key="wxHexLab edits files of any size without loading them: changes are kept apart from the original until you save, with unlimited undo and redo." value="wxHexLab modifica file di qualsiasi dimensione senza caricarli: le modifiche restano separate dall&apos;originale fino al salvataggio, con annulla e ripeti illimitati."/>
+    <entry key="Author:" value="Autore:"/>
+    <entry key="Copyright:" value="Copyright:"/>
+    <entry key="License:" value="Licenza:"/>
+    <entry key="Project page:" value="Pagina del progetto:"/>
+    <entry key="Report a problem:" value="Segnala un problema:"/>
+    <entry key="Proprietary - the binaries are free of charge" value="Proprietaria - i binari sono gratuiti"/>
+    <entry key="Features" value="Funzioni"/>
+    <entry key="Insert, overwrite and delete with unlimited undo - hex, text and hex+text views in 9 character sets - find and replace (hex with wildcards, text, UTF-8, UTF-16) - data inspector (integers, floats, dates, GUID) - checksums (CRC, Adler, MD5, SHA-1, SHA-2) - Intel HEX and Motorola S-record import/export - C array and HTML export - file compare, split, join - file and folder shredder - bookmarks." value="Inserimento, sovrascrittura ed eliminazione con annullamento illimitato - viste hex, testo e hex+testo in 9 set di caratteri - trova e sostituisci (hex con jolly, testo, UTF-8, UTF-16) - ispettore dati (interi, virgola mobile, date, GUID) - checksum (CRC, Adler, MD5, SHA-1, SHA-2) - importazione/esportazione Intel HEX e Motorola S-record - esportazione array C e HTML - confronto, divisione e unione di file - distruzione di file e cartelle - segnalibri."/>
+    <entry key="Design and development" value="Progettazione e sviluppo"/>
+    <entry key="To report a problem, describe what you did and what happened, and paste the text of the System tab." value="Per segnalare un problema descrivi cosa hai fatto e cosa è successo, e incolla il testo della scheda Sistema."/>
+    <entry key="Developed with the help of Claude (Anthropic)." value="Sviluppato con l&apos;aiuto di Claude (Anthropic)."/>
+    <entry key="wxHexLab is built on these components:" value="wxHexLab si basa su questi componenti:"/>
+    <entry key="Component" value="Componente"/>
+    <entry key="Version" value="Versione"/>
+    <entry key="Licence" value="Licenza"/>
+    <entry key="Used for" value="Usato per"/>
+    <entry key="Windows, controls, dialogs, clipboard, the same code on Windows and Linux" value="Finestre, controlli, dialoghi, appunti, lo stesso codice su Windows e Linux"/>
+    <entry key="C++ standard library" value="Libreria standard C++"/>
+    <entry key="Compiler runtime licence" value="Licenza del runtime del compilatore"/>
+    <entry key="Files, strings, containers, threads" value="File, stringhe, contenitori, thread"/>
+    <entry key="Checksums, hashes, file formats and the editor core are part of wxHexLab: no other library is used." value="Checksum, hash, formati di file e il nucleo dell&apos;editor fanno parte di wxHexLab: nessun&apos;altra libreria è usata."/>
+    <entry key="Open &amp;Disk..." value="Apri &amp;disco..."/>
+    <entry key="&amp;Partitions..." value="&amp;Partizioni..."/>
+    <entry key="&amp;Allow Writing..." value="&amp;Consenti scrittura..."/>
+    <entry key="Re&amp;fresh" value="A&amp;ggiorna"/>
+    <entry key="Open Disk or Partition" value="Apri disco o partizione"/>
+    <entry key="Choose a drive or a partition to open as read-only. Raw disk access reads every byte, past any file system - handle with care." value="Scegli un&apos;unità o una partizione da aprire in sola lettura. L&apos;accesso raw legge ogni byte, oltre il file system - usare con attenzione."/>
+    <entry key="Device" value="Dispositivo"/>
+    <entry key="Size" value="Dimensione"/>
+    <entry key="Model / note" value="Modello / nota"/>
+    <entry key="Drive" value="Unità"/>
+    <entry key="Partition" value="Partizione"/>
+    <entry key="Open Read-Only" value="Apri in sola lettura"/>
+    <entry key="%s cannot be opened without %s rights.\n\n%s" value="%s non può essere aperto senza permessi di %s.\n\n%s"/>
+    <entry key="Would you like to restart wxHexLab with those rights now?" value="Vuoi riavviare wxHexLab con quei permessi ora?"/>
+    <entry key="administrator" value="amministratore"/>
+    <entry key="root" value="root"/>
+    <entry key="%s could not be opened:\n%s" value="Impossibile aprire %s:\n%s"/>
+    <entry key="Opened %s read-only (%llu bytes, sector %u)" value="Aperto %s in sola lettura (%llu byte, settore %u)"/>
+    <entry key="%s is in use (%s). Reading it is allowed; writing to a mounted volume can corrupt it." value="%s è in uso (%s). La lettura è consentita; scrivere su un volume montato può corromperlo."/>
+    <entry key="Partitions" value="Partizioni"/>
+    <entry key="No partition table found: %s" value="Nessuna tabella delle partizioni trovata: %s"/>
+    <entry key="%s partition table, %d partition(s). Double-click one to go to its first byte." value="Tabella delle partizioni %s, %d partizioni. Doppio clic per andare al primo byte."/>
+    <entry key="#" value="#"/>
+    <entry key="First byte (h)" value="Primo byte (h)"/>
+    <entry key="Name / flags" value="Nome / flag"/>
+    <entry key="Allow Writing" value="Consenti scrittura"/>
+    <entry key="WARNING: writing raw bytes to a disk bypasses the file system. A wrong byte can make the disk, a partition or the whole operating system UNBOOTABLE and destroy data irreversibly." value="ATTENZIONE: scrivere byte raw su un disco aggira il file system. Un byte sbagliato può rendere il disco, una partizione o l&apos;intero sistema operativo NON AVVIABILE e distruggere i dati in modo irreversibile."/>
+    <entry key="This device is MOUNTED and in use. Writing to it now can corrupt the live file system. Unmount it first unless you know exactly what you are doing." value="Questo dispositivo è MONTATO e in uso. Scriverci ora può corrompere il file system attivo. Smontalo prima, a meno che tu non sappia esattamente cosa stai facendo."/>
+    <entry key="I understand the risk - allow overwriting bytes on this device" value="Capisco il rischio - consenti la sovrascrittura di byte su questo dispositivo"/>
+    <entry key="Enable Writing" value="Abilita scrittura"/>
+    <entry key="Writing could not be enabled:\n%s" value="Impossibile abilitare la scrittura:\n%s"/>
+    <entry key="Writing enabled. Edits are overwrite-only and are written when you save." value="Scrittura abilitata. Le modifiche sono solo in sovrascrittura e vengono scritte al salvataggio."/>
+    <entry key="The elevated restart could not be started." value="Impossibile avviare il riavvio con privilegi elevati."/>
+    <entry key="Open &amp;Process..." value="Apri &amp;processo..."/>
+    <entry key="Memory &amp;Regions..." value="&amp;Regioni di memoria..."/>
+    <entry key="Re&amp;fresh Memory&#9;F5" value="A&amp;ggiorna memoria&#9;F5"/>
+    <entry key="Open Process Memory" value="Apri memoria del processo"/>
+    <entry key="Choose a process to open its memory as read-only. Processes you own are usually openable; others may need administrator or root rights." value="Scegli un processo per aprirne la memoria in sola lettura. I processi di tua proprietà sono di solito apribili; per gli altri possono servire permessi di amministratore o root."/>
+    <entry key="PID" value="PID"/>
+    <entry key="Name" value="Nome"/>
+    <entry key="User" value="Utente"/>
+    <entry key="Memory" value="Memoria"/>
+    <entry key="Filter:" value="Filtro:"/>
+    <entry key="Process %u could not be opened:&#10;%s" value="Impossibile aprire il processo %u:&#10;%s"/>
+    <entry key="Opened %s read-only (address space up to %llX h)" value="Aperto %s in sola lettura (spazio di indirizzi fino a %llX h)"/>
+    <entry key="Process %u cannot be opened without %s rights.&#10;&#10;%s" value="Il processo %u non può essere aperto senza permessi di %s.&#10;&#10;%s"/>
+    <entry key="Memory Regions" value="Regioni di memoria"/>
+    <entry key="%d readable region(s). Double-click one to go to its start." value="%d regioni leggibili. Doppio clic per andare all&apos;inizio di una."/>
+    <entry key="Address (h)" value="Indirizzo (h)"/>
+    <entry key="Access" value="Accesso"/>
+    <entry key="Mapping" value="Mappatura"/>
+    <entry key="WARNING: writing into another process&apos;s memory can crash it, corrupt its data, or make the system unstable. Only do this if you understand the program&apos;s internals." value="ATTENZIONE: scrivere nella memoria di un altro processo può farlo bloccare, corromperne i dati o rendere instabile il sistema. Fallo solo se comprendi il funzionamento interno del programma."/>
+    <entry key="Memory re-read." value="Memoria riletta."/>
+    <entry key="Search &amp;All Process Memory..." value="Cerca in &amp;tutta la memoria dei processi..."/>
+    <entry key="Search All Process Memory" value="Cerca in tutta la memoria dei processi"/>
+    <entry key="Search the memory of every process you can open. Processes that need higher rights are skipped and counted." value="Cerca nella memoria di ogni processo apribile. I processi che richiedono permessi superiori vengono saltati e conteggiati."/>
+    <entry key="Only my own processes (no elevation needed)" value="Solo i miei processi (nessuna elevazione necessaria)"/>
+    <entry key="Search" value="Cerca"/>
+    <entry key="Searching %s..." value="Ricerca in %s..."/>
+    <entry key="%llu match(es) in %zu process(es); %zu process(es) skipped (no access)." value="%llu corrispondenze in %zu processi; %zu processi saltati (nessun accesso)."/>
+    <entry key="Process" value="Processo"/>
+    <entry key="Double-click a match to open that process and go to the address." value="Doppio clic su una corrispondenza per aprire il processo e andare all&apos;indirizzo."/>
+    <entry key="(result limit reached; narrow the search)" value="(limite dei risultati raggiunto; restringi la ricerca)"/>
+    <entry key="Open Physical &amp;Memory..." value="Apri &amp;memoria fisica..."/>
+    <entry key="Open Physical Memory" value="Apri memoria fisica"/>
+    <entry key="Physical / kernel memory (Linux /proc/kcore). This feature is written but NOT TESTED against a real system. It needs root and is read-only." value="Memoria fisica / del kernel (Linux /proc/kcore). Questa funzione è scritta ma NON TESTATA su un sistema reale. Richiede root ed è in sola lettura."/>
+    <entry key="Reading physical memory on Windows needs a kernel driver and is not available in wxHexLab." value="La lettura della memoria fisica su Windows richiede un driver kernel e non è disponibile in wxHexLab."/>
+    <entry key="Physical memory could not be opened:&#10;%s" value="Impossibile aprire la memoria fisica:&#10;%s"/>
+    <entry key="Opened physical memory read-only (%d segment(s))" value="Memoria fisica aperta in sola lettura (%d segmenti)"/>
+    <entry key="Scan &amp;File for Suspicious Code..." value="Analizza &amp;file per codice sospetto..."/>
+    <entry key="Scan C&amp;urrent Data for Suspicious Code" value="Analizza i dati c&amp;orrenti per codice sospetto"/>
+    <entry key="Scan File for Suspicious Code" value="Analizza file per codice sospetto"/>
+    <entry key="Suspicious Code Analysis" value="Analisi del codice sospetto"/>
+    <entry key="Analysing..." value="Analisi in corso..."/>
+    <entry key="%s  -  overall entropy %.2f / 8" value="%s  -  entropia complessiva %.2f / 8"/>
+    <entry key="%d finding(s): %d high, %d medium, %d low, %d info" value="%d risultati: %d alti, %d medi, %d bassi, %d info"/>
+    <entry key="No suspicious traits were found." value="Nessun tratto sospetto rilevato."/>
+    <entry key="This is not a virus scanner and has no signature database. Findings are hints for a human to judge: a finding does not prove malware, and a clean report does not prove the file is safe." value="Questo non è un antivirus e non ha un database di firme. I risultati sono indizi da valutare a giudizio umano: un risultato non prova la presenza di malware e un esito pulito non prova che il file sia sicuro."/>
+    <entry key="Severity" value="Gravità"/>
+    <entry key="Category" value="Categoria"/>
+    <entry key="Finding" value="Risultato"/>
+    <entry key="Offset" value="Offset"/>
+    <entry key="Detail" value="Dettaglio"/>
+    <entry key="The data could not be analysed:&#10;%s" value="Impossibile analizzare i dati:&#10;%s"/>
+    <entry key="Info" value="Info"/>
+    <entry key="Low" value="Bassa"/>
+    <entry key="Medium" value="Media"/>
+    <entry key="High" value="Alta"/>
+    <entry key="Custom..." value="Personalizzato..."/>
+    <entry key="Overwrite passes (run top to bottom):" value="Passaggi di sovrascrittura (dall'alto in basso):"/>
+    <entry key="Pattern" value="Motivo"/>
+    <entry key="random" value="casuale"/>
+    <entry key="&amp;Add" value="&amp;Aggiungi"/>
+    <entry key="&amp;Edit..." value="&amp;Modifica..."/>
+    <entry key="&amp;Remove" value="&amp;Rimuovi"/>
+    <entry key="Move &amp;Up" value="Sposta &amp;su"/>
+    <entry key="Move &amp;Down" value="Sposta &amp;giù"/>
+    <entry key="Choose a method to see its passes, or choose Custom to add, edit, reorder and remove them. Custom starts from the passes of the method shown." value="Scegli un metodo per vederne i passaggi, oppure scegli Personalizzato per aggiungerli, modificarli, riordinarli e rimuoverli. Personalizzato parte dai passaggi del metodo mostrato."/>
+    <entry key="Add at least one overwrite pass before continuing." value="Aggiungi almeno un passaggio di sovrascrittura prima di continuare."/>
+    <entry key="Custom (%d pass(es))" value="Personalizzato (%d passaggi)"/>
+    <entry key="Overwrite Pass" value="Passaggio di sovrascrittura"/>
+    <entry key="Random bytes (different every run)" value="Byte casuali (diversi a ogni esecuzione)"/>
+    <entry key="Fixed byte pattern:" value="Motivo di byte fisso:"/>
+    <entry key="Hex bytes, repeated over the file - e.g. 00, FF, or 92 49 24:" value="Byte esadecimali, ripetuti sul file - es. 00, FF o 92 49 24:"/>
+    <entry key="Enter one or more hex bytes (two digits each), for example: 00 FF 92." value="Inserisci uno o più byte esadecimali (due cifre ciascuno), ad esempio: 00 FF 92."/>
+    <entry key="Code &amp;Walkthrough (Teaching)..." value="&amp;Analisi guidata del codice (didattica)..."/>
+    <entry key="Code Walkthrough" value="Analisi guidata del codice"/>
+    <entry key="Analysing and disassembling..." value="Analisi e disassemblaggio in corso..."/>
+    <entry key="Step %d of %d" value="Passo %d di %d"/>
+    <entry key="&lt; &amp;Previous" value="&lt; &amp;Precedente"/>
+    <entry key="&amp;Next &gt;" value="&amp;Successivo &gt;"/>
+    <entry key="&amp;Play" value="&amp;Riproduci"/>
+    <entry key="&amp;Pause" value="&amp;Pausa"/>
+    <entry key="&amp;Jump to Offset" value="&amp;Vai all'offset"/>
+    <entry key="Bytes at this offset:" value="Byte a questo offset:"/>
+    <entry key="Disassembly (address: bytes  instruction):" value="Disassemblaggio (indirizzo: byte  istruzione):"/>
+    <entry key="Open a file first (File &gt; Open), then start the walkthrough on it." value="Apri prima un file (File &gt; Apri), poi avvia l'analisi guidata su di esso."/>
+    <entry key="There is nothing to walk through in this data." value="Non c'è nulla da analizzare in questi dati."/>
+</translation>
